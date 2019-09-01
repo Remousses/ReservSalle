@@ -16,13 +16,13 @@
     <li class="nav-item">
         <a class="nav-link" href="formations">
             <i class="fas fa-fw fa-book-open"></i>
-            <span>Formation</span></a>
+            <span>Ajouter une formation</span></a>
     </li>
 
     <li class="nav-item">
         <a class="nav-link" href="formateurs">
             <i class="fas fa-fw fa-users"></i>
-            <span>Chercher formateur</span></a>
+            <span>Rechercher un formateur</span></a>
     </li>
 
     <li class="nav-item">
